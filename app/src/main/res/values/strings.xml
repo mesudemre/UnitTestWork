@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnitTestWork</string>
+    <string name="main_screen_title">Liste</string>
+    <string name="detail_screen_title">Detay</string>
+    <string name="service_error">Tarihte bugün listesi getirilirken hata meydana geldi!</string>
+    <string name="common_empty_data">Tarihte bugün listesi boş!!!</string>
+</resources>
